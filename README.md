@@ -1,4 +1,4 @@
-# Mosquitto-Broker-a-win7-a-Service
+# Mosquitto Broker a win7 a Service
 
 install Mosquitto
 ok now it will run right?
